@@ -94,7 +94,7 @@ def main():
     result = dovidnyk.search(prizvische_to_find)
     print(f"Пошук за прізвищем '{prizvische_to_find}': {result}")
 
-    prizvische_to_find = "Коваленко"
+    prizvische_to_find = "Чесной"
     result = dovidnyk.search(prizvische_to_find)
     print(f"Пошук за прізвищем '{prizvische_to_find}': {result}")
 
